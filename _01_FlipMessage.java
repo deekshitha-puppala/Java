@@ -1,5 +1,5 @@
 import java.util.*;
-public class FlipMessage {
+public class _01_FlipMessage {
      public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter String to be flipped: ");
