@@ -1,3 +1,5 @@
+//A String value consiting of lowercase english alphabets.
+// return the decoded string after flipping all the characters.
 import java.util.*;
 public class _01_FlipMessage {
      public static void main(String args[]) {
